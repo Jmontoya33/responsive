@@ -1,0 +1,4 @@
+Listado de requerimientos
+
+Cambiar el tipo de letra al igual que el tamaño
+Cambiar fondo por uno mas claro
